@@ -5,8 +5,8 @@ Recommender Systems" (SIGMOD Submission ID: 642)
 
 ## Environment
 
-- System: Ubuntu 18.04.2 LTS
-- Compiler: gcc 7.5.0
+- System: Oracle Linux 8.8 (64-bit)
+- Compiler: gcc 8.5.0
 
 ## Datasets
 
@@ -18,8 +18,6 @@ Download them from [here](https://)
 $ cd data/
 $ python genseed.py Gowalla # python data_name
 ```
-
-
 
 ## Running
 
