@@ -1,7 +1,7 @@
 # KASC
 
-Code for the Sigmod paper Submission Id: 642 titled "Efficient Swing Computation for Retrieval in Large-Scale
-Recommender Systems"
+Code for the paper titled "Efficient Swing Computation for Retrieval in Large-Scale
+Recommender Systems" (SIGMOD Submission ID: 642)
 
 ## Environment
 
