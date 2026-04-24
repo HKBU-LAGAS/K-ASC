@@ -3,10 +3,6 @@
 - System: Oracle Linux 8.8 (64-bit)
 - Compiler: gcc 8.5.0
 
-## Datasets
-
-Download them from [here](https://)
-
 ## Generating queries
 
 ```shell
