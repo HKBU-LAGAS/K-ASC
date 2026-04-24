@@ -44,16 +44,11 @@ target_link_libraries(main PRIVATE
         graph
         algo
         utils
-
         qfilter_lib
-
-        m # 数学库
-
         Boost::program_options
         Boost::filesystem
         Boost::system
         stdc++fs
-
         Threads::Threads
         dl
         rt
