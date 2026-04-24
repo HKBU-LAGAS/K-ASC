@@ -68,18 +68,6 @@ class Graph{
         // void
         void OriOrder();
         void DegOrder();
-        void AdapDegOrder();
-        void ButterflyOrder();
-        void ROrder();
-        void TestOrder();
-        void LvOrder();
-        void WeightOrder();
-        void SumOrder();
-        void SqrtOrder();
-        void LogOrder();
-        void HeapOrder();
-        void LinearOrder();
-        void BlockOrder();
         void SampleOrder();
 };
 #endif
