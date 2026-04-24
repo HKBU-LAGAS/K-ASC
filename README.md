@@ -14,14 +14,18 @@ Download them from [here](https://)
 
 ## Generating queries
 
-```python
-$ cd data/
-$ python genseed.py Gowalla # python data_name
+```shell
+# Generate all item and popular item random samples
+$ sh genseeds.sh
+# Compute the ground truth necessary for metrics calculation using Exact algorithm
+$ sh groundTruth.sh  
 ```
 
 ## Running
 
 ```shell
 $ sh build.sh
-$ ./main -g Gowalla -a KASC
+# ./main -g ${data} -a ${algo} -r ${samples}
+$ ./main -g Gowalla -a KASC -r all
 ```
+
