@@ -21,8 +21,6 @@ Recommender Systems" (SIGMOD Submission ID: 642)
 |   $Yambda$   |       921,023       |      8,746,689      |    1,339,219,563    |     music     |  [Download](https://huggingface.co/datasets/yandex/yambda)   |
 |    $MAG$     |     10,541,560      |      2,784,240      |    1,095,315,106    |     paper     | [Download](https://figshare.com/articles/dataset/mag_scholar/12696653) |
 
-</div>
-
 ## Generating queries
 
 ```shell
