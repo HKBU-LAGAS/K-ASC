@@ -1,6 +1,6 @@
 # $K$-ASC
 
-Code for the Code for the SIGMOD 2027 paper titled "Efficient Swing Computation for Retrieval in Large-Scale
+Code for the SIGMOD 2027 paper titled "Efficient Swing Computation for Retrieval in Large-Scale
 Recommender Systems"
 
 ## Environment
